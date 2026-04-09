@@ -19,8 +19,7 @@
 ![贝塞尔曲线演示](work3_images/work3.gif)
 
 按c键清除页面
-!(work3_images/work3.1.gif)
-
+![清除演示](work3_images/work3.1.gif)
 
 ## 运行方式
 ```bash
